@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Beate Loidl</title>
+<!-- TemplateEndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script src="../js/modernizr.js"></script>
+<link href="../css/custom.css" rel="stylesheet">
+<!-- TemplateParam name="home_class" type="text" value="" -->
+<!-- TemplateParam name="ueber_mich_class" type="text" value="" -->
+<!-- TemplateParam name="g-balance_class" type="text" value="" -->
+<!-- TemplateParam name="aufstellung_class" type="text" value="" -->
+<!-- TemplateParam name="beratung_class" type="text" value="" -->
+<!-- TemplateParam name="termine_class" type="text" value="" -->
+<!-- TemplateParam name="kontakt_class" type="text" value="" -->
+</head>
+<body>
+<div id="outer-wrap">
+    <div id="inner-wrap">
+
+        <header id="top" role="banner">
+            <div class="block">
+                <div  id="logo"><img src="../img/g_balance.png" alt="G-Balance" title="G-Balance"/></div><!-- TemplateBeginEditable name="Header" -->
+                <img src="../img/header/willkommen.png" alt="Willkommen" title="willkommen" class="banner">
+            <!-- TemplateEndEditable -->
+                <a class="nav-btn" id="nav-open-btn" href="#nav">Navigation</a>
+            </div>
+        </header>
+        <nav id="nav" role="navigation">
+            <div class="block">
+                <ul>
+                  	<li class="@@(_document['home_class'])@@"><a href="../index.html">Home</a></li>
+                    <li class="@@(_document['ueber_mich_class'])@@"><a href="../ueber-mich/index.html">&Uuml;ber mich</a></li>
+                    <li class="@@(_document['g-balance_class'])@@"><a href="../g-balance/index.html">Abnehmen/G-Balance</a></li>
+                    <li class="@@(_document['aufstellung_class'])@@"><a href="../aufstellungen/index.html">Aufstellungen</a></li>
+                    <li class="@@(_document['beratung_class'])@@"><a href="../beratung/index.html">Beratung</a></li>
+                    <li class="@@(_document['termine_class'])@@"><a href="../termine/index.html">Termine</a></li>
+                    <li class="@@(_document['kontakt_class'])@@"><a href="../kontakt/index.html">Kontakt</a></li>
+                </ul>
+                <a class="close-btn" id="nav-close-btn" href="#top">Schliessen</a>
+            </div>
+        </nav>
+        <div id="main" class="block" role="main">
+            <article ><!-- TemplateBeginEditable name="Content1" -->
+              <div class="col3-2">
+                <h1>Sie haben schon jede Di&auml;t ausprobiert?</h1>
+                <h1>Jede Methode versucht?<br />
+                  Und nichts hilft? </h1>
+                <p> Ich habe G-Balance entwickelt, damit Sie Ihre Gewichtsprobleme nachhaltig l&ouml;sen k&ouml;nnen.
+                  Wissenschaftliche Studien beweisen immer h&auml;ufiger, was ich selbst erlebt habe. </p>
+                <p> &Uuml;bergewicht hat fast immer seelische Ursachen.Es ist die Seele, die Hunger hat, es ist gar nicht der K&ouml;rper. Das ist die Erfahrung,
+                  die ich selbst gemacht habe und die ich Ihnen mit Kraft und Freude vermitteln werde. </p>
+              </div>
+            <!-- TemplateEndEditable -->
+              <div class="col3-1">
+                    
+                <!-- TemplateBeginEditable name="bild" --><img src="../img/Beate-0427.png" alt="Beate Loidl"><!-- TemplateEndEditable --></div>
+                <div class="col1">
+                <!-- TemplateBeginEditable name="Content2" -->
+                    <h4 class="text">Ich biete an:</h4>
+                    <p class="text"> - Beratungen bei Gewichtsthemen, Einzel- oder Gruppen, Kinder und Erwachsenen
+                    </p><p class="text">- Aufstellungen zu allen Themen - speziell aber zum Thema Gewicht
+                </p><p class="text">Wu&szlig;ten Sie schon?<strong> Abnehmen beginnt in ihrem Kopf und in ihrem Herzen!</strong>
+            <!-- TemplateEndEditable -->
+                </div>
+                <div class="clearfix" ></div>
+            </article>
+        </div>
+        <div class="clearfix" ></div>
+        <footer><!-- #BeginLibraryItem "/Library/footer.lbi" --><p class="small" >&copy; 2015, Beate Loidl, Perchtoldsdorf, Wien, <a href="../impressum/index.html">Impressum</a><br>
+                Tel: 0676/4480510, E-Mail: <a href="mailto:g-balance@beate-loidl.at">g-balance@beate-loidl.at</a>
+            </p><!-- #EndLibraryItem --></footer>
+    </div>
+    <!--/#inner-wrap-->
+</div>
+<!--/#outer-wrap-->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="../js/main.js"></script>
+<!-- #BeginLibraryItem "/Library/GA-Tag.lbi" -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-34959995-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- #EndLibraryItem -->
+</body>
+</html>
